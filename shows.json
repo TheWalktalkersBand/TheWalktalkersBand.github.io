@@ -1,0 +1,32 @@
+[
+    {
+        "date": "Saturday, June 20",
+        "doors": "7:00 PM",
+        "show": "8:00 PM",
+        "cover": "$10",
+        "venue": "The High Dive",
+        "address1": "11474 Joseph Campau Ave",
+        "address2": "Hamtramck, MI 48212",
+        "bands": "Michigan Left and Gee Wally"
+    },
+    {
+        "date": "Friday, July 17",
+        "doors": "7:00 PM",
+        "show": "8:00 PM",
+        "cover": "TBD",
+        "venue": "Ghost Light",
+        "address1": "2314 Caniff Ave",
+        "address2": "Hamtramck, MI 48212",
+        "bands": "Sugar Sharp and TBD"
+    },
+    {
+        "date": "Friday, July 24",
+        "doors": "7:00 PM",
+        "show": "8:00 PM",
+        "cover": "TBD",
+        "venue": "The Old Maimi",
+        "address1": "3930 Cass Ave",
+        "address2": "Detroit, MI 48201",
+        "bands": "Remnants & DUDE"
+    }
+]
