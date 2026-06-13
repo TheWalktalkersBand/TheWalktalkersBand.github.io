@@ -18,7 +18,7 @@ fetch('shows.json')
 
         <div class="show-meta">
           <span>Doors: ${show.doors}</span>
-          <span>Show: ${show.show}</span><br>
+          <span>Show: ${show.show}</span>
           <span>Cover: ${show.cover}</span>
         </div>
 
